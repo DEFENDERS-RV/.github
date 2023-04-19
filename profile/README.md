@@ -53,6 +53,7 @@ Codigos de la UNIDAD :three: en Arduino:
 * [P_5_SendDP_ValMayor](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Archivos/P_5_SendDP_ValMayor.cvs)
 * [TABLAS EXCEL - MARVEL](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/TABLAS_EQ3.xlsx)
 
+### Practicas :hammer_and_wrench: 
 
 
 ## Tareas :computer: :gear:
@@ -71,3 +72,5 @@ UNIDAD :two: :
 * [PR - ASCII LEDS](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/ascii%20leds/ascii%20leds.ino)
 * [PR - Juego del Ahorcado](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/JUEGODELAHORCADO/JUEGODELAHORCADO.ino)
 * [PR - Juego del Gato](https://github.com/DEFENDERS-RV/Arduino/blob/main/SE_1_U2_EQ_3/Arduino/JUEGODELGATO/JUEGODELGATO.ino)
+
+UNIDAD :three: :
